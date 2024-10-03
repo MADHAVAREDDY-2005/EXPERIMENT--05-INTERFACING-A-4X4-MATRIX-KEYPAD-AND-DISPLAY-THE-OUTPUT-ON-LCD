@@ -178,7 +178,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 ![image](https://user-images.githubusercontent.com/36288975/233856904-99eb708a-c907-4595-9025-c9dbd89b8879.png)
 
 ## CIRCUIT DIAGRAM 
- 
+  ![image](https://github.com/user-attachments/assets/e40f340a-dbc5-4d27-8875-ce132cfb7261)
+
 
 ## STM 32 CUBE PROGRAM :
 ```c
@@ -335,8 +336,8 @@ void key()
 
 
 ## Output screen shots of proteus  :
- 
- ![image](https://github.com/user-attachments/assets/e40f340a-dbc5-4d27-8875-ce132cfb7261)
+ ![image](https://github.com/user-attachments/assets/246f33a2-9dcb-4b5a-a548-1c24db2943b1)
+
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  ![image](https://github.com/user-attachments/assets/9765ffab-97c1-43db-8cfa-1363c0533039)
